@@ -1,0 +1,29 @@
+.btn{
+    margin-left: 40px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.btn button{
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+}
+
+.btn a{
+    text-decoration: none;
+}
+
+h6{
+    width: 1200px;
+    height: 300px;
+    margin-left: 150px;
+    margin-top: 100px;
+    text-align: end;
+    font-size: larger;
+    font-weight: lighter;
+    font-style: oblique;
+    padding-top: 40px;
+}

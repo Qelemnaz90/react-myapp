@@ -1,0 +1,35 @@
+.but{
+    margin-left: 90px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.but button{
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+}
+
+.but a{
+    text-decoration: none;
+}
+
+.inf{
+    height: 300px;
+    margin-left: 600px;
+    margin-top: 100px;
+}
+
+.inf ul{
+    font-weight:bolder;
+    font-size: xx-large;
+    font-style:italic;
+    color:burlywood;
+}
+
+.inf li{
+    font-size: larger;
+    
+}

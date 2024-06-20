@@ -1,0 +1,20 @@
+.foot{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    font-size: larger;
+    text-decoration: underline;
+}
+.finish{
+    font-size: xx-large;
+    width: 1400px;
+    font-style: italic;
+    text-align: center;
+    margin-left: 100px;
+}
+.div {
+    background-color: darksalmon;
+    height: 130px;
+    border-radius: 20px;
+    margin-top: 100px;
+}

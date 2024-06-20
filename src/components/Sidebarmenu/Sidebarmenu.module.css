@@ -1,0 +1,49 @@
+
+
+
+.menu {
+    width: 200px;
+}
+
+.menu ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.menu li {
+    position: relative;
+}
+
+.menu a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color: #000;
+}
+
+.menu a:hover {
+    background-color: #f0f0f0;
+}
+
+.submenu {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 100%;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    z-index: 1000;
+}
+
+.submenu li {
+    width: 200px;
+}
+
+.submenu a {
+    padding: 10px;
+}
+

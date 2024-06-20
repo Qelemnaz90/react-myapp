@@ -1,0 +1,20 @@
+.list {
+    display: flex;
+    justify-content: space-around;
+    padding-left: 1px;
+    width: 1300px;
+    margin-left: 100px;
+
+}
+
+.list button{
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+}
+
+.list a{
+    text-decoration: none;
+    
+}
